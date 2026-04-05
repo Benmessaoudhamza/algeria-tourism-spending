@@ -17,7 +17,7 @@ Ministry of Finance : Annual finance law publications
 The original budget figures were extracted from annual finance laws and harmonized across years. Some budget items were combined with other departments, so the tourism-related series were reconstructed carefully.
 For missing values, imputation and moving-average procedures were used where necessary.  
 # Repository Contents
-`data/` — dataset files
+`data/` — dataset files — Algeria Lois de finance 1999 to 2023 ( PDFs ) 
 `code/` — 
 `documentation/` — notes about variable construction and sources
 `README.md` — project description
