@@ -13,8 +13,7 @@ Ministry of Finance : Annual finance law publications
 The original budget figures were extracted from annual finance laws and harmonized across years. Some budget items were combined with other departments, so the tourism-related series were reconstructed carefully.
 For missing values, imputation and moving-average procedures were used where necessary.  
 # Repository Contents
-`data/` — dataset files & Algeria Lois de finance 1999 to 2023 ( PDFs ) 
-`documentation/` 
-`README.md` — project description
+`data/`dataset files, Algeria Lois de finance 1999 to 2023 (zip & separated) 
+`README.md`project description
 # Citation & License
 If you use this dataset, please cite the paper as: Hamza Benmessaoud , Assessing the Effectiveness of Public Expenditures in Enhancing Tourism Performance. This repository is shared for academic and research purposes.
